@@ -1,5 +1,5 @@
 ## Hello 👋, I'm Parveen Kumar Tiwari
-Machine Learning | Data Analyst| Data Scientist
+Machine Learning | Data Analyst | Data Scientist
 <!--
 **parvntiwari/parvntiwari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
